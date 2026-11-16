@@ -2,6 +2,16 @@
 
 类似百词斩的安卓背词 APP，核心是“看词选图”。目前调通 JLPT N5（Tanos 词表，718 词）。
 
+## 下载安装
+
+安卓 8.0 及以上，手机浏览器打开下面任一链接，下载后点开安装（首次需允许“安装未知来源应用”）：
+
+- 国内加速：https://ghfast.top/https://github.com/LiverAchee/JapaneseWords/releases/latest/download/JapaneseWords.apk
+- 备用加速：https://gh-proxy.com/https://github.com/LiverAchee/JapaneseWords/releases/latest/download/JapaneseWords.apk
+- GitHub 原地址：https://github.com/LiverAchee/JapaneseWords/releases/latest
+
+加速链接是第三方公益镜像，打不开就换另一个。在微信里点开链接下载不了时，点右上角“在浏览器打开”。
+
 ## 目录
 
 | 路径 | 内容 |
@@ -16,6 +26,8 @@
 ## 打包
 
 双击 `build-apk.bat`（或 `build-apk.bat nopause`）。改版时先改 `android/app/build.gradle` 里的 `versionCode` / `versionName`。
+
+发布给别人用：`gh release create v<版本> dist\JapaneseWords-<版本>.apk <同一文件复制成 JapaneseWords.apk>`。每个版本都要带一个固定名字的 `JapaneseWords.apk`，上面“下载安装”里的 `releases/latest/download/JapaneseWords.apk` 链接才能一直指向最新版。
 
 ## 代码结构（`android/app/src/main/java/com/affairs/japanesewords/`）
 
