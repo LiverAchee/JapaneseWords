@@ -1,0 +1,121 @@
+# 序号|中文释义|词性|常用度1-5|互斥组|记忆点|插画提示词
+241|健康，有精神|な形|5||汉字“元気”：元气满满。お元気ですか = 你好吗。|an energetic person jumping with arms up
+242|～个（小东西）|助数|4||汉字“個”：一個、二個。|three small eggs being counted one by one on a table
+243|五|名|5|n5|五，读 go，和英语 go 同音。|a hand showing five fingers
+244|～语；词|接尾|4||汉字“語”：日本語、中国語。|an open book with a japanese flag and a speech bubble, language learning icon, no text, no letters
+245|公园|名|4||汉字“公園”；kouen。|a park with trees, a bench and a fountain
+246|十字路口|名|3||汉字“交差点”= 交叉的点。|a road intersection with traffic lights and crosswalks
+247|红茶|名|3||汉字“紅茶”；koucha。|a cup of black tea with a tea bag and lemon
+248|派出所，岗亭|名|3|police|汉字“交番”：街角的小警察岗亭。|a small japanese police box building on a street corner
+249|声音（人、动物的）|名|4||汉字“声”；koe ≈“扣诶”：喊一声。|sound waves coming out of a shouting mouth
+250|大衣，外套|名|3||外来语 coat。|a long winter coat
+251|咖啡|名|5||外来语 coffee：koohii。|a cup of hot coffee with coffee beans
+252|这里|代|5|here|こ系指近处：ここ = 这里。|a map pin marking you are here at one's feet
+253|下午|名|4||汉字“午後”= 中午之后。|a clock showing 3 pm with afternoon sun
+254|九号；九天|名|3|n9|九（ここの）+ 日（か）。|a calendar page showing the 9th day
+255|九个|名|3|n9|ここのつ：和语数词“九个”。|nine strawberries arranged in rows
+256|上午|名|4||汉字“午前”= 中午之前。|a clock showing 9 am with morning sun
+257|回答|动|4||汉字“答”；kotaeru。|a student raising hand to answer a question in class
+258|这边，这位（礼貌）|代|4|here|こ系指近处；～ちら是礼貌说法。|a smiling hotel clerk waving a hand toward the viewer inviting to come this way, no text, no letters, no writing
+259|这边（口语）|代|3|here|こちら的口语说法。|a child beckoning come over here with a hand
+260|玻璃杯，杯子|名|4|cup|来自荷兰语 kop：没有把手的杯子。|an empty drinking glass tumbler
+261|今年|名|4||汉字“今年”，读 kotoshi。|a calendar of the current year with a star
+262|语言；词语|名|4||汉字“言葉”：言语的叶子。|a book with words and letters floating out
+263|孩子|名|5||汉字“子供”；kodomo ≈“扣多摸”孩子的头。|a group of small children holding hands
+264|这个～|连体|5|here|こ系指近处；この + 名词。|a person holding up a nearby pen and pointing at it
+265|米饭；饭|名|5||汉字“御飯”；gohan ≈“够汉”子吃的饭。|a bowl of steamed white rice with chopsticks
+266|复印|动|3||外来语 copy + する。|a photocopier machine printing copies
+267|为难，困扰|动|4||汉字“困”；komaru ≈“扣马路”上被困住。|a worried person scratching head with sweat drops
+268|这个（东西）|代|5|here|こ系指近处：これ = 手边这个。|a person holding an apple in hand showing it
+269|～左右（时间）|接尾|4||三時ごろ = 三点左右。|a clock with a fuzzy shaded range around 3 o'clock
+270|这个月|名|4||汉字“今月”；kongetsu。|a monthly calendar with the whole current month highlighted
+271|这周|名|4||汉字“今週”；konshuu。|a calendar with one week row highlighted
+272|这样的|连体|4||こ系：こんな + 名词 = 这样的～。|a person showing a strange shaped object with surprise
+273|今晚|名|4||汉字“今晩”；こんばんは = 晚上好。|a night sky with moon over a house, tonight
+274|来吧；嗯……|感|3||saa ≈“撒”：撒手开始吧！|a cartoon girl clapping her hands cheerfully saying let's go, bright background, no text, no letters, no writing
+275|～岁|助数|4||汉字“歳”：二十歳。|a birthday cake with candles and an age number
+276|钱包|名|4||汉字“財布”= 装财的布袋。|a leather wallet with cash
+277|鱼|名|5||汉字“魚”；sakana ≈“撒卡那”条鱼。|a blue fish
+278|前面，先；刚才|名|4||汉字“先”；saki。|a runner ahead of others at the front of a race
+279|（花）开|动|3||汉字“咲”；saku：花が咲く。|cherry blossoms blooming on a branch
+280|作文|名|3||汉字“作文”；sakubun。|a student writing an essay on lined manuscript paper
+281|撑（伞）；指|动|3||傘を差す = 撑伞。|a person holding up an open umbrella overhead
+282|～本，～册（书）|助数|3||汉字“冊”：一冊、二冊。|a stack of three books being counted
+283|杂志|名|4||汉字“雑誌”；zasshi。|a pile of colorful magazines
+284|糖，砂糖|名|4||汉字“砂糖”；satou，和姓“佐藤”同音。|a sugar bowl with sugar cubes
+285|（天气）冷的|い形|5|cold|汉字“寒”；samui ≈“撒母衣”：冷得撒手找妈妈要衣服。|a shivering person in snow with scarf
+286|后年|名|2||さ + 来年（明年）= 再下一年。|a row of three yearly calendars with the last future one highlighted
+287|～先生，～女士|接尾|5||人名后的敬称：田中さん。|two people bowing and greeting each other with name tags
+288|三|名|5|n3|三，读 san，和中文“三”很像。|three balloons with the number 3
+289|散步|名|4||汉字“散歩”；sanpo。|a person strolling in a park with a dog
+290|四|名|4|n4|四，读 shi（和“死”同音，所以常读 yon）。|four leaf clover with the number 4
+291|～点（钟点）|助数|5||汉字“時”：三時 = 三点。|a wall clock pointing exactly at an hour
+292|盐|名|4||汉字“塩”；shio ≈“洗哦”：盐水洗。|a salt shaker pouring salt
+293|但是，然而|接|4|but|shikashi ≈“西卡西”：转折一下。|a road sign with a sharp U-turn arrow, a twist
+294|时间|名|5|time|汉字“時間”；jikan。|an hourglass and a clock
+295|～小时|助数|4|time|数字 + 時間：二時間 = 两小时。|a clock with a shaded two hour sector
+296|工作|名|5||汉字“仕事”；shigoto ≈“西够头”疼的工作。|a person working at a desk with a laptop and documents
+297|词典|名|4|dict|汉字“辞書”；jisho。|a thick dictionary book
+298|安静的|な形|4||汉字“静”；shizuka ≈“静香”（哆啦A梦里的静香）。|a quiet library with a shh finger gesture
+299|下面|名|5||汉字“下”；shita ≈“西塔”下面。|a cat hiding under a table with a down arrow
+300|七|名|4|n7|七，读 shichi（也读 nana）。|seven stars with the number 7
+301|问题，提问|名|4||汉字“質問”；shitsumon。|a person raising a hand with a question mark
+302|自行车|名|4||汉字“自転車”= 自己转的车。|a bicycle
+303|汽车|名|3|car|汉字“自動車”= 自己动的车。|a blue sedan automobile seen from the side
+304|死|动|3||汉字“死”；shinu ≈“死奴”。|a wilted dead flower in a pot
+305|字典|名|1|dict|汉字“字引”= 查字的书，较老的说法。|an old worn dictionary with a magnifying glass
+306|自己|名|4||汉字“自分”；jibun。|a person pointing at themselves in a mirror
+307|（门）关着，关上|动|4|close|汉字“閉”；shimaru：自己关上（自动词）。|an automatic door sliding closed by itself
+308|关上|动|4|close|汉字“閉”；shimeru：人去关（他动词）。|a hand closing a window
+309|系紧，勒紧|动|2||汉字“締”；shimeru：ネクタイを締める。|hands tightening a necktie knot
+310|那么|接|4|then|ja：では的口语。じゃ、また = 那再见。|a person waving goodbye saying well then
+311|照片|名|4||汉字“写真”= 写下真实。|a photograph print of a landscape
+312|衬衫|名|4|shirt|外来语 shirt。|a casual t-shirt
+313|淋浴|名|4||外来语 shower。|a shower head spraying water, no person, bathroom tiles
+314|十|名|5|n10|十，读 juu。|ten fingers held up with the number 10
+315|整个～，全～|接尾|3||一日中 = 一整天；世界中 = 全世界。|a happy child hugging a big blue earth globe, the whole world, no text, no letters, no writing
+316|～周，～星期|助数|4||汉字“週間”：一週間 = 一周。|a calendar with one full week bracketed
+317|上课，课|名|4||汉字“授業”；jugyou。|a teacher giving a lesson to students at desks
+318|作业|名|4||汉字“宿題”= 带回宿舍的题。|a child doing homework with books at home at night
+319|擅长，拿手|な形|4|skill|汉字“上手”：手艺在上 = 高明。|an artist proudly painting a great picture with applause
+320|结实的，牢固的|な形|3||汉字“丈夫”：不是老公，是结实。|a strong sturdy wooden bridge holding an elephant
+321|酱油|名|3||汉字“醤油”；shouyu。|a bottle of soy sauce with a small dish
+322|食堂|名|4||汉字“食堂”；shokudou。|a cafeteria with trays and tables
+323|知道|动|5||汉字“知”；shiru：知っている = 知道。|a person with a light bulb, knowing the answer
+324|白色|名|4|white|汉字“白”；shiro，和“城”同音。|a white paint bucket and white cloud
+325|白色的|い形|4|white|白（しろ）加い：白い雲。|a white fluffy rabbit
+326|～人（国籍）|接尾|4||国名 + 人（じん）：日本人。|two smiling cartoon people of different countries standing side by side waving, one in kimono, no text, no letters, no writing
+327|报纸|名|4||汉字“新聞”：不是新闻，是报纸。|a folded newspaper
+328|星期三|名|4|week|汉字“水曜日”：水 = 星期三。|a weekly calendar with Wednesday highlighted and a water drop icon
+329|吸，抽（烟）|动|3||汉字“吸”；suu：吸气的声音。|a person sucking a drink through a straw
+330|裙子|名|3||外来语 skirt。|a pleated skirt
+331|喜欢|な形|5|like|suki ≈“死 key”：喜欢到死。|a person hugging a big red heart
+332|过～；超过|接尾|3||汉字“過”：五時すぎ = 五点多。|a cup overflowing with too much water
+333|少的|い形|4|few|汉字“少”；sukunai。|a plate with only two tiny peas
+334|马上，立刻|副|4||sugu ≈“速咕”：迅速。|a person dashing off instantly with speed lines
+335|一点儿，稍微|副|5|few|汉字“少”；sukoshi。|a pinch of salt between two fingers
+336|凉爽的|い形|4||汉字“涼”；suzushii ≈“嘶嘶西”凉风。|a person enjoying a cool breeze under a tree with a wind chime
+337|每～，各～|接尾|3||一つずつ = 一个一个地。|a teacher giving one cookie to each of five children sitting in a row, each child holding one cookie, no text
+338|暖炉，取暖器|名|3||外来语 stove，在日语里指取暖器。|a kerosene room heater glowing orange
+339|勺子|名|3||外来语 spoon。|a silver spoon
+340|运动，体育|名|4||外来语 sports。|soccer ball, tennis racket and basketball together
+341|裤子|名|4||来自法语 jupon。|a pair of trousers
+342|住|动|5||汉字“住”；sumu。|a person waving from the window of their house
+343|做|动|5||suru：万能动词“做”。勉強する。|a person busy doing tasks with a checklist
+344|坐|动|4||汉字“座”；suwaru。|a person sitting down on a sofa
+345|身高，个子|名|3||汉字“背”；sei が高い = 个子高。|a fully clothed child in a t-shirt standing against a height chart on a wall, wholesome, family friendly
+346|学生（中小学）|名|4|student|汉字“生徒”；seito。|middle school students in uniforms with school bags
+347|毛衣|名|3||外来语 sweater。|a knitted wool sweater
+348|肥皂|名|3||汉字“石鹸”；sekken。|a bar of soap with bubbles
+349|西装|名|2||汉字“背広”；sebiro。|a men's business suit jacket and pants on a mannequin
+350|狭窄的|い形|4||汉字“狭”；semai ≈“塞满一”屋。|a person squeezed in a very narrow tiny room
+351|零|名|4|n0|外来语 zero。|a big number zero on a scoreboard
+352|千|名|4||汉字“千”；sen。|a thousand yen banknote stack with many zeros
+353|上个月|名|4||汉字“先月”：先 = 之前的。|a monthly calendar with an arrow pointing back to the previous month
+354|上周|名|4||汉字“先週”；senshuu。|a calendar with the previous week row highlighted and a back arrow
+355|老师；医生|名|5||汉字“先生”：不是“先生”，是老师。|a teacher with glasses holding a pointer and a book
+356|洗衣服|名|4||汉字“洗濯”；sentaku。|a washing machine with laundry hanging to dry
+357|全部|名|4||汉字“全部”；zenbu。|a person hugging a whole pile of everything
+358|是的，是那样|副|5|yes|sou：そうです = 是的。|a person nodding and giving an OK hand sign
+359|打扫|名|4||汉字“掃除”；souji。|a person sweeping the floor with a broom
+360|然后，于是|接|4|then|soshite：连接两件事。|a boy eating breakfast, then a second scene of the same boy going to school, two scenes side by side, no text, no letters, no writing

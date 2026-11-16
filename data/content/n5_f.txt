@@ -1,0 +1,119 @@
+# 序号|中文释义|词性|常用度1-5|互斥组|记忆点|插画提示词
+601|帽子|名|4||汉字“帽子”；boushi。|a straw hat and a baseball cap
+602|圆珠笔|名|3|pen|外来语 ball-point pen。|a retractable ballpoint pen with a click button
+603|其他，另外|名|4||汉字“外 / 他”；hoka。|one item set apart from a group of others
+604|口袋|名|3||外来语 pocket。|a jeans pocket with a handkerchief sticking out
+605|想要|い形|5||汉字“欲”；hoshii：～がほしい。|a child with sparkling eyes reaching for a toy in a shop window
+606|邮筒|名|3||外来语 post。日本的邮筒是红色的。|a red japanese mailbox on a street
+607|细的，瘦长的|い形|3||汉字“細”；hosoi。|a very thin slender pencil next to a fat marker
+608|按钮；纽扣|名|3||来自葡萄牙语 botão。|shirt buttons and a round push button
+609|酒店，宾馆|名|4||外来语 hotel。|a hotel building with a bellboy and a luggage cart
+610|书|名|5||汉字“本”：不是本子，是书。|an open hardcover book
+611|～根，～瓶（细长物）|助数|3||汉字“本”：鉛筆一本（いっぽん）。|three pencils and bottles in a row being counted
+612|书架|名|3||本（ほん）+ 棚（たな）。|a tall bookshelf full of books
+613|真的|名|5||汉字“本当”；hontou：本当ですか = 真的吗？|a person with a surprised really expression and wide eyes
+614|～张，～片（扁平物）|助数|3||汉字“枚”：紙一枚。|three sheets of paper and tickets being counted
+615|每天早上|名|4|every|毎（まい）+ 朝（あさ）。|a person jogging at sunrise with a repeating calendar
+616|每个月|名|3|every|毎（まい）+ 月。|twelve monthly calendar pages each with a check mark
+617|每周|名|4|every|毎（まい）+ 週。|a calendar with the same weekday circled every week
+618|每天|名|5|every|毎（まい）+ 日（にち）。|a calendar with every single day checked off
+619|每年|名|3|every|毎（まい）+ 年。|a row of years each with a birthday cake
+620|每天晚上|名|3|every|毎（まい）+ 晩（ばん）。|a person reading in bed under the moon with a repeating calendar
+621|前面；之前|名|5|front|汉字“前”；mae。|a person standing in front of a house with a forward arrow
+622|～前（时间、场所）|接尾|4|front|接在名词后：駅前 = 车站前；三年前。|a plaza right in front of a train station
+623|拐弯；弯曲|动|4||汉字“曲”；magaru：右に曲がる。|a car turning right at a bend in the road
+624|难吃的|い形|3||mazui ≈“妈滋一”口就吐：难吃。|a person spitting out bad food with a green sick face
+625|又，再；还|副|4||mata：また明日 = 明天见。|a person waving see you again with a repeat arrow
+626|还，尚未|副|5||mada：まだです = 还没。|an unfinished jigsaw puzzle still in progress with an hourglass
+627|城镇，街道|名|4||汉字“町”；machi。|a small town street with shops and houses
+628|等待|动|5||汉字“待”；matsu，和“松”同音。|a person waiting at a bus stop checking a watch
+629|笔直，一直|副|4||massugu：まっすぐ行く = 直走。|a perfectly straight road going to the horizon with a straight arrow
+630|火柴|名|2||外来语 match。|a lit matchstick with a matchbox
+631|窗户|名|4||汉字“窓”；mado。|a window with curtains
+632|圆的|い形|3||汉字“丸 / 円”；marui。|a perfectly round ball and a round moon
+633|万|名|4||汉字“万”；man：一万円。|a ten thousand yen banknote
+634|钢笔（自来水笔）|名|1|pen|汉字“万年筆”：能写一万年的笔。|a classic fountain pen with a metal nib and ink bottle
+635|刷（牙）；擦亮|动|4||汉字“磨”；migaku：歯を磨く。|a person brushing teeth with a toothbrush
+636|右|名|4||汉字“右”；migi。|an arrow pointing right with a right hand
+637|短的|い形|4||汉字“短”；mijikai。|a very short pencil stub next to a long one
+638|水|名|5||汉字“水”；mizu：指凉水。|a glass of clear water with a water drop
+639|店，商店|名|5||汉字“店”；mise。|a small shop storefront with an awning
+640|给～看，出示|动|4|see|見る（看）→ 見せる（让人看）。|a person showing a ticket to an inspector
+641|路，道路|名|4||汉字“道”；michi。|a winding country road path
+642|三号；三天|名|3|n3|三（みっ）+ 日（か）。|a calendar page showing the 3rd day
+643|三个|名|4|n3|みっつ：和语数词“三个”。|three apples in a row
+644|绿色|名|4||汉字“緑”；midori。|a green paint bucket and green leaves
+645|各位，大家（敬称）|名|4|everyone|皆（みな）+ さん：对众人的敬称。|a speaker addressing a seated audience
+646|南|名|4|dir|汉字“南”；minami。|a compass with south highlighted and palm trees
+647|耳朵|名|4||汉字“耳”；mimi。|a close-up of a human ear
+648|看|动|5|see|汉字“見”；miru。|a person looking through binoculars
+649|大家，全部|名|5|everyone|minna：口语的“大家”。|a big group of friends cheering together
+650|六号；六天|名|3|n6|六（むい）+ 日（か）。|a calendar page showing the 6th day
+651|对面，那边|名|4||汉字“向”；mukou：川の向こう。|a person looking across a river to the opposite bank
+652|难的|い形|5||汉字“難”；muzukashii。|a student struggling with a very hard math problem
+653|六个|名|3|n6|むっつ：和语数词“六个”。|six eggs in a carton
+654|村子|名|3||汉字“村”；mura。|a small rural village with thatched houses and rice fields
+655|眼睛|名|5||汉字“目”，读 me，一个音。|a close-up of a human eye
+656|米（长度）|名|3||外来语 meter。|a measuring tape showing one meter
+657|眼镜|名|4||汉字“眼鏡”；megane。|a pair of eyeglasses
+658|已经；再|副|5||mou：もう食べた = 已经吃了。|an empty plate, already finished eating with a check mark
+659|星期四|名|4|week|汉字“木曜日”：木 = 星期四。|a weekly calendar with Thursday highlighted and a tree icon
+660|喂（打电话）|感|4||moshimoshi：接电话时说。|a person answering a phone saying hello
+661|拿，持有|动|5||汉字“持”；motsu。|a person holding a large bag in their hands
+662|更，更加|副|4||motto：もっとください = 再多给点。|a child holding out a bowl asking for more food
+663|东西，物品|名|4||汉字“物”；mono。|assorted everyday objects, a clock, a ball, a cup
+664|大门|名|3||汉字“門”；mon。|a traditional japanese wooden gate
+665|问题，题目|名|4||汉字“問題”；mondai。|an exam sheet with a difficult problem and a warning sign
+666|～店，～铺|接尾|4||接在名词后表店铺：本屋、花屋。|a row of small shops, a bookshop, a flower shop and a bakery
+667|蔬菜店|名|2||汉字“八百屋”，特殊读音 yaoya：卖八百种菜的店。|a greengrocer shop with crates of vegetables outside
+668|蔬菜|名|4||汉字“野菜”：不是野菜，是蔬菜。|a basket of fresh vegetables, carrot, cabbage and tomato
+669|简单的，容易的|い形|4||汉字“易”；yasashii（“温柔”也读这个音）。|a child easily solving a simple one plus one puzzle
+670|便宜的|い形|5||汉字“安”；yasui。|a sale price tag with a big discount
+671|休息；假日|名|4|rest|汉字“休”；yasumi。|a calendar with a day off marked and a beach chair
+672|休息；请假|动|4|rest|汉字“休”；yasumu。|a tired worker resting on a bench drinking tea
+673|八个|名|3|n8|やっつ：和语数词“八个”。|eight donuts in two rows
+674|山|名|4||汉字“山”；yama。|a tall mountain with a snowy peak
+675|做，干；给|动|4||yaru：する的口语说法。|a person rolling up sleeves ready to do it
+676|傍晚|名|4|night|夕（ゆう）+ 方（がた）：夕阳的时分。|an orange sunset sky in the late afternoon over rooftops
+677|晚饭|名|3|dinner|夕（ゆう）+ 飯（はん）。|a dinner bowl of rice and dishes with a sunset window
+678|邮局|名|4||汉字“郵便局”；yuubinkyoku。|a japanese post office building with a postal mark
+679|昨晚|名|3|night|汉字“昨夜”，读 yuube。|a starry night sky with a calendar showing yesterday night
+680|有名的|な形|4||汉字“有名”；yuumei。|a celebrity on a red carpet with camera flashes
+681|雪|名|4||汉字“雪”；yuki。|snowflakes falling on a snowy landscape
+682|慢慢地|副|4||yukkuri：ゆっくり話してください。|a snail slowly crawling with a relaxed face
+683|八号；八天|名|3|n8|八（よう）+ 日（か）：注意和四日（よっか）区分。|a calendar page showing the 8th day
+684|西式服装|名|3|clothes|汉字“洋服”：西洋的衣服。|a western style dress and suit on mannequins
+685|经常；很好地|副|5||yoku：よく行く = 常去。|a person visiting the same cafe often with a stamp card full
+686|旁边，横|名|4||汉字“横”；yoko。|a horizontal arrow beside a box showing width and side
+687|四号；四天|名|3|n4|四（よっ）+ 日（か）：注意和八日（ようか）区分。|a calendar page showing the 4th day
+688|四个|名|4|n4|よっつ：和语数词“四个”。|four apples in a square
+689|叫，喊；邀请|动|4||汉字“呼”；yobu。|a person cupping hands to mouth calling someone far away
+690|读|动|5||汉字“読”；yomu。|a person reading a book
+691|夜晚|名|5|night|汉字“夜”；yoru。|a night sky with a crescent moon and stars
+692|弱的|い形|4||汉字“弱”；yowai。|a weak skinny person failing to lift a small dumbbell
+693|下个月|名|4||汉字“来月”：来 = 将来的。|a monthly calendar with an arrow pointing forward to the next month
+694|下周|名|4||汉字“来週”；raishuu。|a calendar with the next week row highlighted and a forward arrow
+695|明年|名|4||汉字“来年”；rainen。|a calendar of next year with a rocket flying forward
+696|收音机|名|3||外来语 radio。|a retro radio with an antenna
+697|收录机|名|1||ラジオ + カセット的缩略。|a boombox radio cassette player
+698|出色的，气派的|な形|3||汉字“立派”；rippa。|a magnificent grand castle
+699|留学生|名|3||汉字“留学生”；ryuugakusei。|an international student with a suitcase arriving at a campus with a globe
+700|父母，双亲|名|4||汉字“両親”= 两位亲人。|a father and a mother standing together
+701|做菜；菜肴|名|5||汉字“料理”；ryouri。|a chef cooking with a frying pan and dishes
+702|旅行|名|4||汉字“旅行”；ryokou。|a traveler with a suitcase and a camera in front of landmarks
+703|零|名|3|n0|汉字“零”；rei。|a thermometer showing zero degrees
+704|冰箱|名|4||汉字“冷蔵庫”= 冷藏的仓库。|a refrigerator with the door open showing food
+705|唱片|名|1||外来语 record。|a vinyl record on a turntable
+706|餐厅|名|4||外来语 restaurant。|a restaurant with a waiter and tables with tablecloths
+707|练习|名|4||汉字“練習”；renshuu。|a soccer player practicing kicks with cones
+708|走廊|名|3||汉字“廊下”；rouka。|a long school corridor with windows
+709|六|名|4|n6|六，读 roku。|six dice dots with the number 6
+710|白衬衫，衬衣|名|3|shirt|来自 white shirt：正装衬衫。|a white formal dress shirt with a collar
+711|年轻的|い形|4||汉字“若”；wakai。|a young person next to an elderly person
+712|明白，懂|动|5||汉字“分”；wakaru。|a student with an aha expression understanding a lesson
+713|忘记|动|4||汉字“忘”；wasureru。|a person leaving home, forgetting an umbrella behind
+714|我|代|5|me|汉字“私”；watashi。|a person pointing at themselves with a thumb
+715|我（郑重）|代|2|me|汉字“私”的郑重读法 watakushi。|a formal businessperson in a suit bowing with a hand on chest
+716|交给，递|动|4||汉字“渡”；watasu。|a person handing a gift over to another person
+717|渡过，穿过|动|4||汉字“渡”；wataru：橋を渡る。|a person crossing a pedestrian crosswalk
+718|坏的，不好的|い形|5||汉字“悪”；warui。|a thumbs down with a villain in a black mask

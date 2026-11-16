@@ -1,0 +1,121 @@
+# 序号|中文释义|词性|常用度1-5|互斥组|记忆点|插画提示词
+1|啊（感叹、应答）|感|3||发音和中文的“啊啊”一样，恍然大悟时脱口而出。|a person with open mouth and a light bulb above head, sudden realization
+2|见面，遇见|动|5||au ≈“啊呜”：朋友见面“啊呜”一声抱在一起。|two friends happily meeting and waving at a street corner
+3|蓝色|名|4|blue|ao ≈“凹”：蓝色的大海凹下去一块。|a big splash of blue paint on a white wall
+4|蓝色的|い形|4|blue|青（あお）加い变形容词：青い空 = 蓝蓝的天。|a bright blue sky with white clouds above a calm blue sea, landscape
+5|红色|名|4|red|aka ≈“阿卡”：阿卡的脸红得像苹果。|a red paint bucket with a red brush
+6|红色的|い形|4|red|赤（あか）加い变形容词：赤いりんご = 红苹果。|a shiny red apple
+7|明亮的；开朗的|い形|4||汉字“明”就是亮；akarui ≈“阿卡亮了”。|a bright sunny room with a cheerful smiling person
+8|秋天|名|4||aki ≈“阿奇”：阿奇在秋天捡落叶。|autumn park with red and orange falling leaves
+9|（门等）开，开着|动|4|open|aku ≈“啊哭”：门自己开了，吓得“啊”地哭。自动词：ドアが開く。|an automatic door sliding open by itself
+10|打开|动|5|open|akeru：比“開く”多一个 e，是“人去打开”（他动词）：窓を開ける。|a child pushing open a window wide with both hands, view of the garden outside
+11|举起，抬高；给|动|4||汉字“上”：往上抬。ageru ≈“啊给你”，举起来递给你。|a person raising a box high above the head
+12|早晨|名|5||asa ≈“阿撒”：早晨阿撒拉开窗帘。|sunrise in the morning with a rooster crowing
+13|早饭|名|4||朝（あさ）+ 御飯（ごはん）= 早上的饭。|japanese breakfast with rice, miso soup and grilled fish on a tray at sunrise
+14|后天|名|3||asatte ≈“阿撒忒”：明天之后再“撒”一天。|a row of three day boxes: today, tomorrow, and the third box highlighted with a star, arrows hopping forward, only pictograms no writing
+15|脚；腿|名|4||ashi ≈“阿西”：阿西踢球伤了脚。|a pair of cartoon legs in long pants and sneakers, walking on the ground, family friendly
+16|明天|名|5||ashita ≈“阿西他”：阿西他明天才来。|a calendar page turning to tomorrow with a rising sun
+17|那里（离双方都远）|代|4|there|あ系指远处：あそこ = 远处那里。|a person pointing at a far away mountain hut in the distance
+18|玩，游玩|动|5||asobu ≈“阿嗖扑”：孩子们“嗖”地扑出去玩。|children playing on a playground slide and swings
+19|暖和的|い形|4||汉字“暖”；atatakai 读起来像呵着热气“啊哒哒”。|a person warming hands by a cozy fireplace
+20|头|名|4||atama ≈“啊他妈（头疼）”：一拍头“啊，他妈妈来了”。|a cartoon person pointing at own big head
+21|新的|い形|5||汉字“新”；atarashii ≈“啊他拉新”货。|a brand new shiny gift box with sparkles
+22|那边，那位（礼貌）|代|3|there|あ系指远处；～ちら是礼貌的方向说法。|a hotel clerk smiling and pointing politely to the right with an open hand, direction signpost
+23|（天气）热的|い形|5|hot|atsui ≈“啊呲”：夏天热得“啊呲”直冒汗。|a sweating person under a blazing summer sun
+24|（东西）烫的，热的|い形|4|hot|同音“あつい”，汉字“熱”指摸上去烫。|a steaming hot cup of tea with a hand recoiling
+25|厚的|い形|3||同音“あつい”，汉字“厚”：厚い本。|a very thick book next to a thin one
+26|那边（口语）|代|3|there|あちら的口语说法。|a child pointing far away saying over there
+27|之后，后面；剩下|名|5||ato ≈“阿拖”：阿拖总是拖到之后才做。|a person finishing work then walking to play later, clock arrow moving forward
+28|你|代|5||anata ≈“阿娜她”：其实是在叫“你”。|a smiling friendly person facing the viewer, hand held out toward the viewer, portrait
+29|哥哥（自己的）|名|4||ani ≈“阿尼”：我哥叫阿尼。|a tall older brother with his hand on a little kid's shoulder
+30|姐姐（自己的）|名|4||ane ≈“阿呢”：我姐“阿呢”在哪？|an older sister braiding her little sister's hair
+31|公寓|名|4||外来语 apartment 的缩略：アパート。|a small two-story japanese apartment building
+32|那个（远处的）～；嗯……|连体|5|there|あ系指远处；あの + 名词。也用来开口搭话。|a boy pointing his finger toward a far-away house on a hill, with mountains in the distance
+33|淋，浴|动|3||abiru ≈“阿比路”：シャワーを浴びる = 淋浴。|a cartoon person in a bathrobe standing next to a shower head with water drops, only shower head and water visible, family friendly
+34|危险的|い形|4||汉字“危”；abunai ≈“啊不耐”：危险，别耐着快跑。|a danger warning sign next to a cliff edge
+35|甜的|い形|4||汉字“甘”= 甘甜；amai ≈“阿妹”爱吃甜。|a slice of sweet cake with honey dripping
+36|（不）太，不怎么；剩余|副|4||amari ≈“阿妈里”：阿妈说“不太”行。后接否定。|a plate with just a few crumbs left and a small cross-out gesture, half-empty cup beside it
+37|雨|名|5||ame ≈“阿妹”：阿妹淋了雨。|heavy rain falling on a street with puddles
+38|糖果|名|3||和“雨”同音あめ：天上下糖果雨。|colorful hard candies in wrappers
+39|洗|动|5||汉字“洗”；arau ≈“阿捞”：从水里捞出来洗。|hands washing dishes in a sink with bubbles
+40|在，有（无生命）|动|5|aru|aru ≈“阿路”：路边“有”一棵树。无生命的东西用ある。|one single green tree standing beside an empty country road
+41|有，在（无生命）|动|5|aru|同“在る”，一般写假名：お金がある = 有钱。|a treasure chest full of gold coins on the floor
+42|走，步行|动|5||汉字“歩”；aruku ≈“阿鲁哭”着走回家。|a person walking along a path
+43|那个（远处的东西）|代|5|there|あ系指远处：あれ = 远处那个东西。|a person pointing at a distant airplane in the sky
+44|好的|い形|5||ii ≈“一一”：样样都好。否定变よくない。|a hand giving a thumbs up
+45|不，不是|感|5||iie ≈“一耶”：摇头说“不”。|a cartoon girl shaking her head with palms out in front and a big red X sign above her
+46|说|动|5||汉字“言”；iu ≈“一呜”：一开口就说。|a person talking with a speech bubble
+47|房子，家|名|5|home|ie ≈“一爷”：一位爷爷的房子。|a cozy house with a red roof
+48|如何，怎么样（礼貌）|副|3||どう的礼貌说法：お茶はいかがですか。|a waiter politely offering a cup of tea
+49|去|动|5||汉字“行”；iku ≈“一哭”：一哭就要去。|a person walking away toward a train station with a suitcase
+50|几个；几岁|名|4||ikutsu：问数量或年龄“几个”。|a child counting apples with fingers and a question mark
+51|多少钱；多少|名|4||ikura：问价格“多少钱”。同音还有“三文鱼子”。|a shopper holding a yellow bag at a shop counter, cash register, coins in hand, asking about price
+52|池塘|名|3||汉字“池”；ike ≈“一颗”：池里一颗石头。|a garden pond with koi fish
+53|医生|名|4||汉字“医者”；isha ≈“一下”：医生看一下。|a doctor in a white coat with a stethoscope
+54|椅子|名|4||汉字“椅子”，读 isu ≈“一嘶”。|a wooden chair
+55|忙的|い形|4||汉字“忙”；isogashii ≈“一搜嘎西”忙得团团转。|a busy office worker with many papers and phones
+56|疼的|い形|4||汉字“痛”；itai ≈“一抬”就疼。|a person holding a bandaged aching finger
+57|一|名|5|n1|ichi ≈“一起”：一。|one single big apple standing alone on a table, a big finger raised showing one
+58|一天|名|4|n1|一（いち）+ 日（にち）：一整天。|a sun moving across the sky from sunrise to sunset in one picture
+59|最，第一|名|4|n1|汉字“一番”= 第一名。|a gold medal with number one on a podium
+60|什么时候|代|5||itsu ≈“一次”：哪一次、什么时候？|a clock and calendar with a big question mark
+61|五号；五天|名|3|n5|五（いつ）+ 日（か）：五日。|a calendar page showing the 5th day
+62|一起|名|5||汉字“一緒”；issho ≈“一小”伙人一起。|two people walking together hand in hand
+63|五个|名|4|n5|いつつ：和语数词“五个”。|five oranges in a row
+64|总是|副|5||itsumo ≈“一次没”落下：总是如此。|a person jogging the same route every day, repeated calendar ticks
+65|狗|名|5||inu ≈“一奴”：一只忠心的小狗。|a cute shiba dog sitting
+66|现在|名|5||ima ≈“一马”当先：就是现在。|a wristwatch being pointed at, right now
+67|意思，意义|名|4||汉字“意味”，就是意思。|a person looking up a word in a dictionary with a light bulb
+68|妹妹（自己的）|名|4||imouto ≈“一摸头”：摸妹妹的头。|a little sister with pigtails holding a teddy bear
+69|讨厌的，不愿意|な形|4|dislike|iya ≈“咦呀”：嫌弃地叫一声。|a child pushing away a plate of vegetables with a disgusted face
+70|入口|名|4||汉字“入口”，读 iriguchi。|an entrance door with an arrow pointing in
+71|在，有（人、动物）|动|5|aru|iru：有生命的用いる。猫がいる。|a cat sitting inside a room
+72|需要|动|4||汉字“要”；iru ≈“一路”上需要钱。|a hand reaching for a needed umbrella in the rain
+73|放入，装进|动|4||汉字“入”；ireru：把东西放进去。|a hand putting a letter into a box
+74|颜色|名|4||汉字“色”；iro ≈“一罗”筐颜色。|a palette of many colors of paint
+75|各种各样|な形|4||色（いろ）重复 = 各种颜色 → 各种各样。|a colorful shelf with many different toys, fruits, books and balls, wide variety
+76|上面|名|5||汉字“上”；ue ≈“呜诶”：往上看。|a cat sitting on top of a box with an up arrow
+77|后面，背后|名|4||汉字“後”；ushiro ≈“无心咯”回头看后面。|a person looking behind at someone standing at their back
+78|薄的；淡的|い形|3||汉字“薄”；usui ≈“乌嘶”一下就撕破，很薄。|a very thin sheet of paper held between fingers
+79|歌|名|4|sing|汉字“歌”；uta ≈“乌她”唱的歌。|music notes floating from a songbook
+80|唱|动|4|sing|歌（うた）+ う变动词：歌を歌う。|a singer singing into a microphone
+81|家，自己家；里面|名|5|home|uchi ≈“屋起”：屋子，我的家。|a family at the door of their own home welcoming
+82|出生|动|4||汉字“生”；umareru：被生下来。|a newborn baby in a blanket
+83|海|名|4||汉字“海”；umi ≈“乌米”：乌黑的夜里海浪。|ocean waves on a sandy beach
+84|卖|动|4||汉字“売”= 卖；uru ≈“呜噜”吆喝着卖。|a street vendor selling fruits at a stall
+85|吵闹的；烦人的|い形|4||urusai ≈“无路塞”：吵得无路可逃，塞住耳朵。|a person covering ears next to a loud drum
+86|上衣，外套|名|3||上（うわ）+ 着（ぎ）= 穿在上面的衣服。|a jacket on a hanger
+87|画，图画|名|4||汉字“絵”，读 e，一个音。|a framed painting on an easel
+88|电影|名|4||汉字“映画”；eiga ≈“诶嘎”好看的电影。|audience silhouettes seen from behind sitting in a dark movie theater watching a big bright cinema screen
+89|电影院|名|4||映画（えいが）+ 館（かん）。|a cinema building with a movie poster outside
+90|英语|名|4||汉字“英語”；eigo。|an english textbook with ABC letters
+91|嗯，是的（口语）|感|4|yes|ee ≈“诶”：点头答应。|a person nodding with a relaxed smile
+92|车站|名|5||汉字“駅”；eki ≈“诶，去”车站。|a train station platform with a train
+93|电梯|名|4||外来语 elevator。|an elevator with open doors
+94|日元|助数|5||汉字“円”；en ≈“恩”：一百円。|a pile of shiny gold coins with a round hole symbol and a few paper bills, money
+95|铅笔|名|4||汉字“鉛筆”；enpitsu ≈“摁笔呲”。|a yellow pencil
+96|（美化、尊敬的接头词）|接头|4||放在名词前显得客气：お茶、お金、お名前。|two hands carefully offering a warm cup of tea on a tray, polite gesture
+97|好吃的|い形|5||oishii ≈“哦一西”：哦，一吃就香。|a person eating ramen with a delighted face
+98|多的|い形|5|many|汉字“多”；ooi ≈“哦哦一”大堆。|a huge pile of many books
+99|大的|い形|5|big|汉字“大”；ookii ≈“哦哦key”好大。|a giant elephant next to a tiny mouse
+100|大的（连体）|连体|4|big|大きい的连体形，只放在名词前：大きな木。|a huge tree next to a tiny house
+101|很多人|名|3|many|汉字“大勢”= 人多势众。|a big crowd of many cartoon people standing close together in a plaza, seen from above
+102|母亲，妈妈（尊称）|名|5|mother|okaasan ≈“哦卡桑”：喊妈妈。|a mother in an apron smiling
+103|点心，糕点|名|4||汉字“菓子”；okashi ≈“哦卡西”好吃的点心。|a plate of cookies, chocolates and snacks
+104|钱|名|5||お + 金（かね）：金子就是钱。|a pile of money, coins and banknotes
+105|起床；发生|动|5||汉字“起”；okiru ≈“哦key路”：闹钟响了起床。|a person getting up from bed stretching with alarm clock
+106|放，放置|动|4||汉字“置”；oku ≈“哦酷”：放在这儿。|a hand placing a vase on a table
+107|夫人（别人的妻子）|名|3||汉字“奥”= 里屋，住里屋的人 → 夫人。|a polite married woman in a kimono
+108|酒；日本酒|名|4||お + 酒（さけ）。|a sake bottle with small cups
+109|盘子|名|4||お + 皿（さら）；sara ≈“撒啦”摆盘子。|a stack of white plates
+110|叔叔，伯伯；大叔|名|4||ojisan：注意“じ”是短音；长音おじいさん是爷爷。|a middle-aged man with a mustache waving
+111|爷爷，老爷爷|名|4||ojiisan：“じい”拉长就是爷爷。|an old grandfather with a cane and white beard
+112|教，告诉|动|5||汉字“教”；oshieru ≈“哦戏诶路”教你认路。|a teacher teaching at a blackboard
+113|推，按|动|4||汉字“押”；osu ≈“哦嘶”一下按下去。|a finger pressing a big red button
+114|慢的；晚的|い形|4||汉字“遅”= 迟；osoi ≈“哦嗖一”点都不快。|a slow turtle and a clock showing late
+115|茶|名|5||お + 茶（ちゃ），读音近中文“茶”。|a cup of green tea with a teapot
+116|洗手间|名|4|toilet|お + 手（て）+ 洗い（あらい）= 洗手的地方。|a restroom door sign with a sink
+117|父亲，爸爸（尊称）|名|5|father|otousan ≈“哦偷桑”：喊爸爸。|a father in a suit holding a briefcase smiling
+118|弟弟|名|4||otouto ≈“哦逃脱”：弟弟又逃脱了。|a little boy younger brother with short hair holding hands with his big sister, family
+119|男人，男性|名|4|man|汉字“男”；otoko ≈“哦托扣”。|a man standing with male symbol
+120|男孩|名|4|man|男（おとこ）の 子（こ）= 男的孩子。|a little boy with a baseball cap

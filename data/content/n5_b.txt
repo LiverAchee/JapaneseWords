@@ -1,0 +1,121 @@
+# 序号|中文释义|词性|常用度1-5|互斥组|记忆点|插画提示词
+121|前天|名|3||ototoi ≈“哦脱脱一”：往回脱两天 = 前天。|a calendar with two arrows jumping back two days
+122|前年|名|2||ototoshi：ototoi（前天）换成 toshi（年）= 前年。|a row of three yearly calendars with the oldest one highlighted
+123|大人，成年人|名|4||汉字“大人”，特殊读音 otona。|an adult standing next to a child for height comparison
+124|肚子|名|4||お + 腹（なか）：中间（なか）的部位。|a fully clothed cartoon child in a t-shirt happily patting a full tummy after a meal, wholesome, family friendly
+125|相同的|な形|4||onaji ≈“哦拿几”个都一样。|two identical twin cats
+126|哥哥（尊称，别人的）|名|4||お + 兄（にい）+ さん；nii ≈“你”哥。|a cool teenage older brother with headphones waving
+127|姐姐（尊称，别人的）|名|4||お + 姉（ねえ）+ さん；nee ≈“内”：姐姐。|a kind teenage older sister waving
+128|阿姨，姑姑；大婶|名|4||obasan：“ば”短音是阿姨；长音おばあさん是奶奶。|a middle-aged woman with a shopping bag
+129|奶奶，老奶奶|名|4||obaasan：“ばあ”拉长就是奶奶。|an old grandmother knitting in a rocking chair
+130|浴室，洗澡|名|4||お + 風呂（ふろ）；furo ≈“福洛”泡澡真享福。|a japanese wooden bathtub filled with hot steaming water, empty, no person, with a rubber duck
+131|便当，盒饭|名|4||汉字“弁当”，中文“便当”就来自它。|a japanese bento lunch box
+132|记住，学会|动|4||汉字“覚”；oboeru ≈“哦，背诶路”背下来。|a student memorizing flashcards with a brain icon
+133|警察叔叔|名|2|police|巡逻（まわり）的人 → 巡警的亲切叫法。|a friendly japanese police officer on a bicycle patrol
+134|重的|い形|4||汉字“重”；omoi ≈“哦摸一”下好重。|a person struggling to lift a heavy barbell
+135|有趣的|い形|5||omoshiroi ≈“哦摸西罗一”：有趣得停不下来。|a person laughing out loud at a comic book
+136|游泳|动|4||汉字“泳”；oyogu ≈“哦游股”。|a cartoon child wearing a t-shirt and long swim shorts and goggles, swimming freestyle in a pool, side view, wholesome, family friendly, no text
+137|下（车、楼梯）|动|4||汉字“降”；oriru：从车上下来。|a passenger stepping down off a bus
+138|结束|动|5||汉字“終”= 终；owaru ≈“哦哇路”走到头，结束了。|a movie screen showing the end with curtains closing
+139|音乐|名|4||汉字“音楽”；ongaku。|music notes with a piano and violin
+140|女人，女性|名|4|woman|汉字“女”；onna ≈“温娜”。|a woman standing with female symbol
+141|女孩|名|4|woman|女（おんな）の 子（こ）= 女的孩子。|a little girl in a dress with a ribbon
+142|～次（回数）|助数|4||汉字“回”：一回 = 一次。|a runner circling a track with a lap counter showing 3
+143|～楼，～层|助数|4||汉字“階”：三階 = 三楼。|a building with floor numbers and an elevator indicator
+144|外国|名|4|foreign|汉字“外国”；gaikoku。|a globe with airplanes flying to other countries
+145|外国人|名|4|foreign|外国 + 人（じん）。|tourists with backpacks and a map in a japanese street
+146|公司|名|5||汉字“会社”：倒过来就是“社会”。|an office building with business people entering
+147|楼梯|名|4||汉字“階段”= 一阶一段。|a staircase going up
+148|购物，买东西|名|4|buy|買い（买）+ 物（东西）。|a person carrying many shopping bags
+149|买|动|5|buy|汉字“買”；kau ≈“靠”：靠钱买。|a customer paying at a shop counter
+150|归还|动|4||汉字“返”；kaesu：把东西还回去。|a person returning a book at a library counter
+151|回去，回家|动|5||汉字“帰”= 归；kaeru 和“青蛙”同音：青蛙回家。|a person walking home at sunset toward a house
+152|脸|名|4||汉字“顔”；kao ≈“靠”：靠脸吃饭。|a close-up smiling face
+153|花费（时间、金钱）|动|4||kakaru ≈“卡卡路”：路上卡住，花时间。|an hourglass and coins flowing away during a long trip
+154|钥匙；锁|名|4||汉字“鍵”；kagi ≈“卡几”下锁开了。|a key and a padlock
+155|写|动|5||汉字“書”；kaku ≈“卡哭”：写不出来卡得哭。|a hand writing in a notebook with a pen
+156|学生（多指大学生）|名|5|student|汉字“学生”；gakusei。|a university student with a backpack and books
+157|～个月|助数|4||三か月 = 三个月。|three monthly calendar pages in a row
+158|挂；戴（眼镜）|动|4||汉字“掛”= 挂；kakeru。|a hand hanging a picture frame on a wall
+159|打（电话）；坐下|动|4||電話をかける = 打电话。|a person dialing on a telephone
+160|伞|名|4||汉字“傘”；kasa ≈“卡撒”：撑开伞。|an open umbrella in the rain
+161|借出，借给|动|4|lend|汉字“貸”= 贷；kasu ≈“卡嘶”：借给别人。|a person handing a book to a friend, lending
+162|风|名|4|kaze|汉字“風”；kaze ≈“卡贼”冷的风。|wind blowing trees and leaves
+163|感冒|名|4|kaze|和“風”同音：吹了风就感冒。写作“風邪”。|a sick person with a mask and thermometer in bed
+164|位（人的敬称）；方法|名|4||汉字“方”：この方 = 这位。|a receptionist respectfully introducing a guest
+165|家人，家庭成员|名|5|family|汉字“家族”；kazoku。|a family photo with parents and two children
+166|片假名|名|4|kana|汉字“片仮名”，写外来语用。|a blackboard showing katakana characters like ア イ ウ
+167|～月（月份）|助数|5||一月（いちがつ）= 一月。|one big wall calendar hanging on a wall, a large yellow crescent moon picture on its top half and a grid of days on its bottom half, bold colors
+168|学校|名|5||汉字“学校”；gakkou，中间有促音。|a school building with a clock tower and playground
+169|杯子（带把的）|名|4|cup|外来语 cup。|a coffee mug with a handle
+170|家庭|名|3|family|汉字“家庭”；katei。|a warm living room with a family around a table
+171|拐角，角|名|3||汉字“角”；kado ≈“卡多”：拐角卡住。|a street corner with a building edge
+172|包，书包|名|4||kaban ≈“卡帮”：包卡住了要帮忙。|a brown leather bag
+173|花瓶|名|3||汉字“花瓶”；kabin。|a flower vase with tulips
+174|戴（帽子）|动|3||kaburu：帽子从头上盖下来。|a person putting a hat on their head
+175|纸|名|4||汉字“紙”；kami，和“神”“头发”同音。|a stack of white paper sheets
+176|照相机|名|4||外来语 camera。|a camera
+177|星期二|名|4|week|汉字“火曜日”：火 = 星期二。|a weekly calendar with Tuesday highlighted and a fire icon
+178|辣的；咸的|い形|4||汉字“辛”= 辛辣；karai ≈“卡辣一”口。|a red chili pepper with a person breathing fire
+179|身体|名|4||汉字“体”；karada ≈“卡拉大”身体。|a cartoon person in a tracksuit stretching and doing exercise, fully clothed, wholesome, family friendly
+180|借入，借来|动|4|lend|汉字“借”；kariru：向别人借。|a person receiving a borrowed book at a library, borrowing
+181|觉得，显得（想要）～|接尾|2||接形容词后：欲しがる = 显得想要。|a child staring longingly at a toy in a shop window
+182|轻的|い形|4||汉字“軽”；karui ≈“卡路里”低，很轻。|a person lifting a feather light balloon easily
+183|咖喱|名|4||外来语 curry。|a plate of japanese curry rice
+184|日历|名|3||外来语 calendar。|a wall calendar
+185|河，川|名|4||汉字“川”；kawa ≈“卡哇”：河水哗哗。|a river flowing through a valley
+186|～侧，～边|接尾|3||汉字“側”：右側 = 右侧。|a road with left side and right side marked by arrows
+187|可爱的|い形|5||kawaii，中文“卡哇伊”就来自它。|an adorable kitten with big eyes
+188|汉字|名|4|kana|汉字“漢字”；kanji。|a calligraphy brush writing chinese characters on paper
+189|树；木头|名|4||汉字“木”，读 ki，一个音。|a single big green tree
+190|黄色|名|4|yellow|汉字“黄色”；kiiro。|a yellow paint bucket and yellow lemon
+191|黄色的|い形|4|yellow|黄色（きいろ）加い：黄色い花。|a field of yellow sunflowers
+192|消失，熄灭|动|3|kesu|汉字“消”；kieru：自己消失（自动词）。|a candle flame going out with smoke
+193|听；问|动|5||汉字“聞”；kiku ≈“key 酷”：听酷酷的歌。|a person listening with a hand cupped to the ear
+194|北|名|4|dir|汉字“北”；kita ≈“key 他”在北方。|a compass with north highlighted and snowy mountains
+195|吉他|名|3||外来语 guitar。|an acoustic guitar
+196|脏的|い形|4||汉字“汚”；kitanai ≈“key 他奶”瓶好脏。|a muddy dirty shirt with stains
+197|咖啡馆，茶馆|名|3||汉字“喫茶店”= 喝茶的店。|a cozy retro coffee shop storefront
+198|邮票|名|4||汉字“切手”；kitte，促音。|postage stamps on an envelope corner
+199|票，车票|名|4||汉字“切符”；kippu。|a train ticket going into a ticket gate
+200|昨天|名|5||kinou ≈“key 诺”：昨天的承诺。|a calendar with yesterday crossed out
+201|九|名|4|n9|九，音读 kyuu ≈“Q”。|nine balloons with the number 9
+202|牛肉|名|4|meat|汉字“牛肉”；gyuuniku。|a raw beef steak with a cow icon
+203|牛奶|名|4||汉字“牛乳”；gyuunyuu。|a milk carton and a glass of milk
+204|今天|名|5||汉字“今日”，特殊读音 kyou。|a calendar with today circled in red
+205|教室|名|4||汉字“教室”；kyoushitsu。|an empty classroom with desks and a blackboard
+206|兄弟姐妹|名|4||汉字“兄弟”；kyoudai。|three siblings standing together arm in arm
+207|去年|名|4||汉字“去年”；kyonen。|a calendar of last year fading into the past
+208|讨厌，不喜欢|な形|4|dislike|汉字“嫌”；kirai ≈“key 来”就烦。|a person frowning with a broken heart symbol at a bug
+209|切，剪|动|4||汉字“切”；kiru。|a knife cutting vegetables on a board
+210|穿（上衣）|动|5|wear|汉字“着”；kiru，和“切る”同音：先剪后穿。|a fully clothed cartoon person putting on a jacket, wholesome, family friendly
+211|漂亮的；干净的|な形|5||汉字“綺麗”；kirei ≈“key 蕾”：花蕾真漂亮。|a sparkling clean room with pretty flowers
+212|公斤|名|3||外来语 kilogram，缩成キロ。|a scale weighing a sack labeled with weight
+213|公里|名|3||外来语 kilometer，缩成キロ。|a long road with a distance marker sign
+214|银行|名|4||汉字“銀行”；ginkou。|a bank building with columns
+215|星期五|名|4|week|汉字“金曜日”：金 = 星期五。|a weekly calendar with Friday highlighted and a gold coin icon
+216|九|名|3|n9|九的另一个读音 ku（九時 = くじ）。|a clock showing nine o'clock
+217|药|名|4||汉字“薬”；kusuri ≈“苦死哩”：药好苦。|medicine pills and a bottle
+218|请（给我）|动|5||～をください = 请给我；～てください = 请做。|a person holding out both hands asking please
+219|水果|名|4||汉字“果物”；kudamono。|a basket of assorted fruits
+220|嘴，口|名|4||汉字“口”；kuchi ≈“哭吃”都用嘴。|a close-up of an open mouth
+221|鞋|名|4||汉字“靴”；kutsu ≈“酷呲”的鞋。|a pair of sneakers
+222|袜子|名|3||靴（くつ）+ 下（した）= 穿在鞋里面的。|a pair of striped socks
+223|国家；故乡|名|4||汉字“国”；kuni ≈“苦你”为国。|a world map with flags of countries
+224|阴天|名|3|cloud|汉字“曇”；kumori：云（くも）多的天。|a gray cloudy overcast sky
+225|变阴|动|2|cloud|曇り的动词形：空が曇る。|clouds gradually covering the sun
+226|暗的|い形|4||汉字“暗”；kurai ≈“哭来”：黑得哭起来。|a dark room with only a tiny candle
+227|大约，左右|助|4||kurai/gurai：一時間ぐらい = 一小时左右。|a hand making an approximately gesture next to a measuring cup
+228|班级|名|4||外来语 class。|a class group photo of students with a teacher
+229|克|名|2||外来语 gram。|a small kitchen scale with a few grams of sugar
+230|来|动|5||汉字“来”；kuru，不规则动词。|a friend arriving at the door waving, coming toward the viewer
+231|汽车，车|名|5|car|汉字“車”；kuruma ≈“酷路马”。|a red car on a road
+232|黑色|名|4|black|汉字“黒”；kuro ≈“苦咯”：黑咖啡好苦。|a black paint bucket and black cat silhouette
+233|黑色的|い形|4|black|黒（くろ）加い：黒い猫。|a black cat with yellow eyes
+234|警察，警官|名|3|police|汉字“警官”；keikan。|a police officer in uniform saluting
+235|今天早上|名|4||汉字“今朝”，特殊读音 kesa。|a person stretching at sunrise with today's date
+236|关掉；擦掉|动|4|kesu|汉字“消”；kesu：人去关（他动词）。|a hand switching off a light switch
+237|很好，够了；相当|な形|3||汉字“結構”；kekkou です = 不用了 / 很好。|a person politely declining with a raised hand, satisfied
+238|结婚|名|4||汉字“結婚”；kekkon，促音。|a bride and groom at a wedding
+239|星期一|名|4|week|汉字“月曜日”：月 = 星期一。|a weekly calendar with Monday highlighted and a moon icon
+240|玄关，门口|名|3||汉字“玄関”；genkan：进门脱鞋的地方。|a japanese house entryway with shoes lined up

@@ -1,0 +1,121 @@
+# 序号|中文释义|词性|常用度1-5|互斥组|记忆点|插画提示词
+481|（鸟兽虫）叫，鸣|动|3||汉字“鳴”；naku，和“泣く（哭）”同音。|a rooster crowing loudly with sound waves
+482|弄丢，丢失|动|3||汉字“無”：弄“无”了；nakusu。|a person searching empty pockets for a lost key
+483|为什么|副|4|why|naze：どうして的书面一点的说法。|a thinker statue pose with a big question mark
+484|夏天|名|4||汉字“夏”；natsu。|a summer beach with sun, watermelon and parasol
+485|暑假|名|4||夏（なつ）+ 休み（やすみ）。|children with insect nets and straw hats on summer vacation
+486|～等等|助|3||nado：列举后表示“等”。|a shopping list with items followed by three dots etc
+487|七个|名|3|n7|ななつ：和语数词“七个”。|seven cherries in a row
+488|什么|代|5||汉字“何”；nani / nan。|a surprised person with a huge question mark overhead
+489|七号；七天|名|3|n7|七（なの）+ 日（か）。|a calendar page showing the 7th day
+490|名字|名|5||汉字“名前”；namae，像英语 name。|a name tag sticker on a shirt
+491|学习（向人学）|动|4|learn|汉字“習”；narau：跟老师学。|a child learning piano from a teacher
+492|排队，并排|动|3|line|汉字“並”；narabu：自己排（自动词）。|people standing in a line queue
+493|摆放，排列|动|3|line|汉字“並”；naraberu：把东西摆齐（他动词）。|a hand arranging books neatly side by side on a shelf
+494|成为，变成|动|5||naru：先生になる = 成为老师。|a caterpillar becoming a butterfly
+495|几～，多少～|接头|4||何（なん）+ 量词：何時、何人。|a clock, a calendar and people icons each with a question mark
+496|二|名|5|n2|二，读 ni。|two cherries with the number 2
+497|热闹的|な形|4||nigiyaka ≈“你给呀卡”：热闹的集市。|a lively festival street with lanterns and crowds
+498|肉|名|4|meat|汉字“肉”；niku。|a big piece of meat on a bone
+499|西|名|4|dir|汉字“西”；nishi。|a compass with west highlighted and a sunset
+500|～日，～号；～天|助数|4||汉字“日”：十一日、三日間。|a calendar with dates and day numbers
+501|星期日|名|4|week|汉字“日曜日”：日 = 星期日。|a weekly calendar with Sunday highlighted and a sun icon
+502|行李|名|4||汉字“荷物”；nimotsu。|suitcases and bags of luggage
+503|新闻|名|4||外来语 news。|a tv news anchor at a desk with breaking news screen
+504|院子，庭院|名|4||汉字“庭”；niwa。|a japanese garden yard with stones and plants
+505|～个人|助数|4||数人：三人（さんにん）。|three people icons being counted
+506|脱|动|4||汉字“脱”；nugu：靴を脱ぐ。|a fully clothed person taking off shoes at a house entrance, wholesome, family friendly
+507|温的，不够热|い形|2||nurui：茶放凉了，温吞吞。|a cup of lukewarm tea with weak fading steam
+508|领带|名|3||外来语 necktie。|a striped necktie
+509|猫|名|5||neko ≈“内口”：小猫躲在屋内门口。|a cute cat sitting
+510|睡觉|动|5||汉字“寝”；neru。|a person sleeping in bed with zzz
+511|～年|助数|4||汉字“年”：一年、二〇二六年。|a row of yearly calendars with year numbers
+512|笔记本|名|4||外来语 notebook 的缩略。|a spiral notebook
+513|登，爬|动|3||汉字“登”；noboru：山に登る。|a hiker climbing a mountain
+514|饮料|名|4|drink|飲み（喝）+ 物（东西）。|various drinks, juice, soda and water bottles
+515|喝|动|5|drink|汉字“飲”；nomu。|a person drinking water from a glass
+516|乘坐，骑|动|5||汉字“乗”；noru：電車に乗る。|a passenger boarding a bus
+517|牙齿|名|4||汉字“歯”，读 ha，一个音。|a shiny white tooth
+518|聚会，派对|名|4||外来语 party。|a party with balloons, confetti and people with party hats
+519|是，是的|感|5|yes|hai：肯定的回答。|a student raising hand and answering yes cheerfully
+520|～杯|助数|3||汉字“杯”：一杯（いっぱい）。|three cups of tea in a row being counted
+521|烟灰缸|名|2||灰（はい）+ 皿（さら）= 装灰的盘子。|a glass ashtray
+522|进入|动|5||汉字“入”；hairu。|a person entering through a doorway
+523|明信片|名|3||汉字“葉書”；hagaki。|a postcard with a stamp and a scenic picture
+524|穿（鞋、裤）|动|4|wear|haku：腰以下的穿用はく。|a person putting on shoes and pants, lower body
+525|箱子，盒子|名|4||汉字“箱”；hako。|a cardboard box
+526|桥|名|4||汉字“橋”；hashi，和“筷子”同音。|an arched bridge over a river
+527|筷子|名|4||汉字“箸”；hashi，和“桥”同音：用筷子搭桥。|a pair of chopsticks on a rest
+528|开始（自动）|动|4|begin|汉字“始”；hajimaru：授業が始まる。|a theater curtain rising as a show begins
+529|开始，最初|名|4|begin|汉字“初 / 始”；hajime。|a starting line on a race track
+530|第一次，初次|副|4|begin|汉字“初”；はじめまして = 初次见面。|a baby taking first steps
+531|跑|动|4||汉字“走”：在日语里是“跑”。|a person running fast
+532|公交车|名|5||外来语 bus。|a city bus
+533|黄油|名|3||外来语 butter。|a block of butter on a dish with a knife
+534|二十岁|名|3||汉字“二十歳”，特殊读音 hatachi：成人的年纪。|a young adult in kimono celebrating coming of age with number 20
+535|工作，劳动|动|5||汉字“働”= 人 + 动；hataraku。|construction workers working with tools
+536|八|名|4|n8|八，读 hachi，和“蜜蜂”同音。|eight bees with the number 8
+537|二十号；二十天|名|2||汉字“二十日”，特殊读音 hatsuka。|a calendar page showing the 20th day
+538|花|名|5||汉字“花”；hana，和“鼻子”同音。|a bouquet of colorful flowers
+539|鼻子|名|4||汉字“鼻”；hana，和“花”同音：用鼻子闻花。|a close-up of a human nose
+540|话，故事|名|4|talk|汉字“話”；hanashi。|an open storybook with a speech bubble
+541|说，讲|动|5|talk|汉字“話”；hanasu。|two people chatting with speech bubbles
+542|母亲（自己的）|名|4|mother|haha ≈“哈哈”：妈妈哈哈笑。|a mom hugging her child warmly
+543|早的|い形|5|hayai|汉字“早”；hayai：时间早。|an alarm clock showing very early morning with sunrise
+544|快的|い形|5|hayai|汉字“速”；hayai：速度快。|a fast sports car with speed lines
+545|春天|名|4||汉字“春”；haru。|spring cherry blossom trees with butterflies
+546|贴|动|3||汉字“貼”；haru：切手を貼る。|a hand sticking a poster on a wall
+547|晴天|名|4|sunny|汉字“晴”；hare。|a bright sunny clear sky with a smiling sun
+548|放晴|动|3|sunny|晴れ的动词形：空が晴れる。|clouds parting to reveal the sun
+549|半，一半|名|4|half|汉字“半”：三時半。|a clock showing half past three
+550|晚上|名|4|night|汉字“晩”；ban。|an evening street with lights turning on at dusk
+551|第～，～号|助数|4||汉字“番”：一番 = 第一。|numbered lockers in a row
+552|面包|名|5||来自葡萄牙语 pão。|a loaf of bread and a croissant
+553|手帕|名|3||外来语 handkerchief 的缩略。|a folded handkerchief
+554|号码|名|4||汉字“番号”：電話番号。|a phone keypad with a number sequence
+555|晚饭|名|4|dinner|晩（ばん）+ 御飯（ごはん）。|a family dinner table at night with dishes
+556|一半|名|4|half|汉字“半分”；hanbun。|an apple cut in half
+557|东|名|4|dir|汉字“東”；higashi。|a compass with east highlighted and a sunrise
+558|～只，～条（小动物）|助数|3||汉字“匹”：猫一匹（いっぴき）。|three kittens in a row being counted
+559|拉；减|动|4||汉字“引”；hiku。|a person pulling a rope hard
+560|弹（琴）|动|3||汉字“弾”；hiku：ピアノを弾く。|a person playing the piano
+561|低的，矮的|い形|4||汉字“低”；hikui。|a low short stool next to a tall chair
+562|飞机|名|4||汉字“飛行機”；hikouki。|an airplane flying in the sky
+563|左|名|4||汉字“左”；hidari。|an arrow pointing left with a left hand
+564|人|名|5||汉字“人”；hito。|a simple standing person figure
+565|一个|名|5|n1|ひとつ：和语数词“一个”。|one single apple on a plate
+566|一个月|名|2||一（ひと）+ 月（つき）。|one full monthly calendar page with a bracket around it
+567|一个人；独自|名|5|n1|汉字“一人”，特殊读音 hitori。|one person standing alone under a streetlight
+568|空闲|な形|4||汉字“暇”；hima。|a relaxed person lying in a hammock with free time
+569|百|名|4||汉字“百”；hyaku。|a 100 point score on a test paper
+570|医院|名|4||汉字“病院”；byouin。别和美容院（びよういん）混淆。|a hospital building with a red cross
+571|病，生病|名|4||汉字“病気”；byouki。|a sick person in a hospital bed with an IV drip
+572|平假名|名|4|kana|汉字“平仮名”；hiragana。|a blackboard showing hiragana characters like あ い う
+573|白天；中午|名|4||汉字“昼”；hiru。|a bright noon sun directly overhead above a town
+574|午饭|名|4|dinner|昼（ひる）+ 御飯（ごはん）。|a lunch set meal on a tray at noon with a sun
+575|宽敞的，宽阔的|い形|4||汉字“広”；hiroi。|a vast wide open spacious room
+576|胶卷|名|1||外来语 film。|a roll of camera film
+577|信封|名|3||汉字“封筒”；fuutou。|a sealed envelope
+578|游泳池|名|3||外来语 pool。|a swimming pool with lanes and a ladder, no people, blue water
+579|叉子|名|3||外来语 fork。|a silver fork
+580|（风）吹|动|3||汉字“吹”；fuku：風が吹く。|a strong wind blowing a person's scarf and leaves
+581|衣服|名|4|clothes|汉字“服”；fuku。|clothes hanging on a rack
+582|两个|名|4|n2|ふたつ：和语数词“两个”。|two apples side by side
+583|猪肉|名|3|meat|豚（ぶた）+ 肉（にく）。|raw pork slices with a pig icon
+584|两个人|名|4|n2|汉字“二人”，特殊读音 futari。|a couple of two people walking together
+585|二号；两天|名|3|n2|二（ふつ）+ 日（か）。|a calendar page showing the 2nd day
+586|粗的|い形|3||汉字“太”；futoi。|a very thick tree trunk next to a thin stick
+587|冬天|名|4||汉字“冬”；fuyu。|a winter scene with a snowman and bare trees
+588|下（雨、雪）|动|4||汉字“降”；furu：雨が降る。|rain and snow falling from clouds
+589|旧的|い形|4||汉字“古”；furui。|an old worn-out rusty car
+590|～分（钟）|助数|5||汉字“分”：五分（ごふん）、一分（いっぷん）。|a clock with a five minute sector shaded
+591|文章；句子|名|3||汉字“文章”；bunshou。|a page of written paragraphs of text
+592|页|名|3||外来语 page。|an open book with page corner turning
+593|不擅长，拙劣|な形|4|skill|汉字“下手”：手艺在下 = 差。|a person with a messy failed drawing looking embarrassed
+594|床|名|4||外来语 bed。|a bed with a pillow and blanket
+595|宠物|名|3||外来语 pet。|a hamster, a goldfish bowl and a puppy together as pets
+596|房间|名|5||汉字“部屋”；heya。|a tidy bedroom interior
+597|一带，附近|名|3|near|汉字“辺”；この辺 = 这一带。|a map with a circled area around a neighborhood
+598|钢笔，笔|名|4|pen|外来语 pen。|a pen
+599|学习|名|5|learn|汉字“勉強”：不是勉强，是学习。|a student studying at a desk with books and a lamp
+600|方便的|な形|4||汉字“便利”；benri。|a convenience store with a smartphone and many handy tools

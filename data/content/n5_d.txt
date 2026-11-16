@@ -1,0 +1,121 @@
+# 序号|中文释义|词性|常用度1-5|互斥组|记忆点|插画提示词
+361|那里（离对方近）|代|4|sothere|そ系指对方那边：そこ = 你那里。|a person pointing at a spot next to another person a few steps away
+362|那边，那位（礼貌）|代|3|sothere|そ系；～ちら是礼貌说法。|a clerk politely gesturing toward the customer's side
+363|那边（口语）|代|3|sothere|そちら的口语说法。|two kids, one pointing toward the other kid's side
+364|外面|名|4||汉字“外”；soto ≈“嗖头”一探就到外面。|a person stepping outside a door into a garden
+365|那个～（离对方近）|连体|5|sothere|そ系；その + 名词。|a person pointing at the hat another person is wearing
+366|旁边；荞麦面|名|4||soba：旁边；同音“荞麦面”——旁边摆着一碗荞麦面。|a bowl of soba noodles placed right beside a person
+367|天空|名|4||汉字“空”；sora ≈“搜啦”天空。|a wide sky with white clouds and birds
+368|那个（离对方近的东西）|代|5|sothere|そ系：それ = 你手边那个。|a person pointing at a book held by another person
+369|然后，从那以后|接|4|then|それ + から（从）= 从那之后。|footprints leading from one place onward to the next
+370|那么|接|3|then|それでは：告别或转入正题时说。|a presenter starting a meeting saying well then at a podium
+371|～台，～辆|助数|3||汉字“台”：车一台、电视一台。|three cars parked in a row being counted
+372|大学|名|5||汉字“大学”；daigaku。|a university campus with a graduation cap
+373|大使馆|名|2||汉字“大使館”；taishikan。|an embassy building with flags in front
+374|没关系，不要紧|な形|5||汉字“大丈夫”：不是男子汉，是“没问题”。|a person giving an OK sign and a reassuring smile after a small fall
+375|非常喜欢|な形|5|like|大 + 好き（喜欢）。|a person with heart eyes hugging a giant panda plush
+376|重要的，珍贵的|な形|4||汉字“大切”；taisetsu。|hands carefully holding a precious treasure gem
+377|厨房|名|4||汉字“台所”；daidokoro。|a kitchen with a stove and pots
+378|很，非常；辛苦，不得了|な形|4||汉字“大変”：大的变故 → 够呛。|a stressed person carrying a huge pile of boxes
+379|高的；贵的|い形|5||汉字“高”；takai：又高又贵。|a very tall skyscraper with an expensive price tag
+380|只，仅|助|4||dake：これだけ = 只有这个。|a plate with only one single cookie
+381|很多|副|5|many|汉字“沢山”；takusan ≈“他哭三”次，很多。|a mountain of many colorful candies
+382|出租车|名|4||外来语 taxi。|a yellow taxi cab
+383|拿出；交出|动|4||汉字“出”；dasu：把东西拿出来。|a hand taking a book out of a bag
+384|～们|接尾|4||接在人后表复数：私たち = 我们。|five cartoon children standing together in a group smiling, a class photo, no text, no letters, no writing
+385|站立|动|4||汉字“立”；tatsu。|a person standing up from a chair
+386|纵，竖，长度|名|2||汉字“縦”；tate：竖的方向。|a very tall narrow tower next to a short house, height comparison, vertical arrow, no text, no letters, no writing
+387|建筑物|名|4||汉字“建物”= 建起来的东西。|a group of city buildings
+388|快乐的，开心的|い形|5||汉字“楽”；tanoshii。|friends laughing on a roller coaster
+389|请求，拜托|动|4||汉字“頼”；tanomu。|a person pressing palms together begging a favor
+390|香烟|名|3||来自葡萄牙语 tabaco。|a cigarette with smoke
+391|大概，也许|副|4||汉字“多分”；tabun。|a person shrugging with a maybe expression and question marks
+392|食物|名|4|food|食べ（吃）+ 物（东西）。|a table full of various foods
+393|吃|动|5|food|汉字“食”；taberu ≈“他背路”上吃。|a person eating with chopsticks from a bowl
+394|鸡蛋|名|4||汉字“卵”；tamago。|eggs in a carton, one cracked open
+395|谁|代|5|who|dare ≈“大咧”咧的是谁？|a silhouette of a mystery person with a question mark
+396|某人，有人|代|3|who|誰（谁）+ か = 某个人。|a shadow of someone behind a frosted glass door
+397|生日|名|4||汉字“誕生日”；tanjoubi。|a birthday cake with candles and presents
+398|渐渐地|副|3||汉字“段々”：一段一段地。|stairs gradually rising step by step with a growing plant
+399|小的|い形|5|small|汉字“小”；chiisai。|a tiny mouse next to a huge elephant
+400|小的（连体）|连体|4|small|小さい的连体形，只放名词前：小さな花。|a tiny flower growing next to a big rock
+401|近的|い形|4|near|汉字“近”；chikai。|two houses very close to each other with a short arrow
+402|不同；不对|动|4||汉字“違”；chigau。|a red apple among green apples, one different
+403|附近|名|4|near|近い的名词形：駅の近く。|a map showing shops nearby around a pin
+404|地铁|名|4|train|汉字“地下鉄”= 地下的铁路。|a subway train in an underground tunnel station
+405|地图|名|4||汉字“地図”；chizu，和“芝士”同音。|a folded paper map with a route
+406|父亲（自己的）|名|4|father|chichi ≈“吃吃”：爸爸叫我吃吃。|a dad lifting his child up on his shoulders
+407|茶色，棕色|名|3||茶 + 色：茶水的颜色。|a brown paint bucket and a brown teddy bear
+408|饭碗|名|3||汉字“茶碗”：盛米饭的碗。|an empty japanese rice bowl with a pattern
+409|正在～中|接尾|3||汉字“中”：勉強中 = 学习中。|a closed door with a red lamp lit above it and a person silhouette working inside an office, no sign text, no text, no letters, no writing
+410|正好，恰好|副|4||汉字“丁度”；choudo。|a puzzle piece fitting exactly into place
+411|稍微，一下|副|5|few|chotto ≈“求偷”一下：ちょっと待って。|a hand gesture showing a tiny bit with thumb and finger
+412|一号（每月第一天）|名|3|n1|汉字“一日”读 tsuitachi：月初的第一天。|a calendar page showing the 1st day of the month
+413|使用|动|5||汉字“使”；tsukau。|a hand using a pair of scissors to cut paper
+414|累，疲劳|动|4||汉字“疲”；tsukareru。|an exhausted person slumped on a sofa
+415|下一个，其次|名|4||汉字“次”；tsugi。|a queue with an arrow pointing to the next person
+416|到达|动|4||汉字“着”；tsuku。|a train arriving at a platform with a person stepping off
+417|桌子，书桌|名|4|table|汉字“机”：不是机器，是书桌。|a study desk with a lamp and books
+418|做，制作|动|5||汉字“作”；tsukuru。|a person building a wooden birdhouse with a hammer
+419|开（灯、电器）|动|4||電気をつける = 开灯。|a hand switching on a lamp that lights up
+420|工作，任职|动|3||汉字“勤”；tsutomeru：会社に勤める。|an office worker with an ID badge entering a company building
+421|无聊的|い形|4||tsumaranai ≈“次嘛拉奶”：无聊透了。|a bored person yawning in front of a TV
+422|凉的，冰冷的|い形|4|cold|汉字“冷”；tsumetai：摸上去冰。|a glass of ice water with ice cubes and frost
+423|强的|い形|4||汉字“強”；tsuyoi。|a strong muscular person flexing arms
+424|手|名|5||汉字“手”，读 te，一个音。|an open human hand
+425|磁带，胶带|名|2||外来语 tape。|a cassette tape
+426|录音机|名|1||外来语 tape recorder。|a retro tape recorder with buttons
+427|桌子，餐桌|名|4|table|外来语 table。|a round dining table with chairs
+428|出门，外出|动|4||出（で）+ かける：出门去。|a person leaving home with a bag waving goodbye
+429|信|名|4||汉字“手紙”：不是卫生纸，是信。|a handwritten letter with an envelope
+430|能，会；做好|动|5||dekiru：日本語ができる = 会日语。|a child proudly riding a bicycle without help
+431|出口|名|4||汉字“出口”；deguchi。|an exit sign with a running figure and arrow out
+432|考试，测验|名|4||外来语 test。|a test paper with a score and red marks
+433|那么|接|4|then|dewa：じゃ的正式说法。|a host opening a show with a welcoming hand gesture
+434|百货商店|名|4||外来语 department store 的缩略。|a large department store building with shop windows
+435|但是|接|5|but|demo：转折。|a person raising a finger to object with a but gesture
+436|出去，出来；出现|动|5||汉字“出”；deru。|a person walking out through a door
+437|电视|名|5||外来语 television 的缩略。|a television set showing a program
+438|天气|名|5||汉字“天気”；tenki。|weather icons of sun, cloud and rain together
+439|电；电灯|名|4||汉字“電気”；denki。|a glowing light bulb with a lightning bolt
+440|电车|名|5|train|汉字“電車”；densha。|a japanese commuter train on tracks above ground
+441|电话|名|5||汉字“電話”；denwa。|a telephone handset with ringing lines
+442|门（日式拉门）|名|2|door|汉字“戸”，读 to，一个音。|a japanese sliding wooden door
+443|～次；～度|助数|3||汉字“度”：一度 = 一次；三十度。|a hand-held thermometer showing high fever red mercury, degrees Celsius, no text, no letters, no writing
+444|门（西式）|名|4|door|外来语 door。|a wooden hinged door with a round knob
+445|厕所|名|5|toilet|外来语 toilet 的缩略。|a toilet
+446|怎么样，如何|副|5|how|dou：どうですか = 怎么样？|a person asking how with tilted head and open palms
+447|为什么|副|5|why|doushite ≈“都西忒”：为什么呀？|a curious child asking why with many question marks
+448|请|副|5||douzo：请用、请进。|a person offering a seat with an open hand, please go ahead
+449|动物|名|4||汉字“動物”；doubutsu。|a group of zoo animals, lion, giraffe and monkey
+450|谢谢；实在是|副|5||doumo：どうもありがとう的简略。|a person bowing slightly in thanks
+451|十（个）|名|3|n10|とお：和语数词“十个”。|ten apples arranged in two rows of five
+452|远的|い形|4||汉字“遠”；tooi。|a tiny house far away at the end of a long road
+453|十号；十天|名|3|n10|十（とお）+ 日（か）。|a calendar page showing the 10th day
+454|～的时候|名|4||汉字“時”；toki：子供の時 = 小时候。|an old photo album showing a moment in childhood
+455|有时|副|4||時（とき）重复 = 时不时。|a calendar with a few scattered days marked
+456|钟，表|名|4||汉字“時計”：计时的东西，特殊读音 tokei。|a wall clock and a wristwatch
+457|哪里|代|5|where|ど系表疑问：どこ = 哪里。|a lost person looking at a map with a question mark
+458|地方，场所|名|4||汉字“所”；tokoro。|a map pin marking a specific place in a town
+459|年；年龄|名|4||汉字“年”；toshi。|a tree trunk cross section showing age rings
+460|图书馆|名|4||汉字“図書館”；toshokan。|a library with tall bookshelves and reading tables
+461|哪边，哪位（礼貌）|代|4|which|ど系疑问；～ちら是礼貌说法。|a person choosing between two doors left and right
+462|哪边，哪个（口语）|代|3|which|どちら的口语说法。|a hand hesitating between two ice cream cones
+463|非常，很|副|5||totemo：とてもおいしい = 非常好吃。|a person amazed with stars around, extremely impressed
+464|哪位（敬称）|代|3|who|だれ的礼貌说法。|a person politely answering the door asking who is there
+465|隔壁，旁边|名|4||汉字“隣”= 邻；tonari。|two houses side by side, neighbors waving over a fence
+466|哪个～|连体|4|which|ど系疑问；どの + 名词。|a person choosing among several hats on a shelf
+467|飞|动|4||汉字“飛”；tobu。|a bird flying in the sky with spread wings
+468|停，停下|动|4||汉字“止”；tomaru。|a car stopped at a red stop sign
+469|朋友|名|5||汉字“友達”；tomodachi。|two friends with arms around each other's shoulders
+470|星期六|名|4|week|汉字“土曜日”：土 = 星期六。|a weekly calendar with Saturday highlighted and a soil sprout icon
+471|鸟；鸡|名|4||汉字“鳥”；tori。|a small bird perched on a branch
+472|鸡肉|名|3|meat|鳥（とり）+ 肉（にく）。|raw chicken drumsticks on a plate
+473|拿，取|动|5||汉字“取”；toru。|a hand taking a book from a shelf
+474|拍（照）|动|4||汉字“撮”；toru：写真を撮る。|a person taking a photo with a camera
+475|哪个（三者以上）|代|4|which|ど系疑问：どれ = 哪一个。|three boxes in a row with a question mark above
+476|什么样的|连体|4||ど系疑问；どんな + 名词。|a person wondering about what kind with several different shaped silhouettes
+477|没有|い形|5||nai：ある的否定。お金がない = 没钱。|an empty open wallet with nothing inside
+478|刀，小刀|名|3||外来语 knife。|a table knife
+479|里面，中间|名|5||汉字“中”；naka。|a kitten inside an open cardboard box
+480|长的|い形|4||汉字“長”；nagai。|a very long snake stretched out

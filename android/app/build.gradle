@@ -1,0 +1,55 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.affairs.japanesewords'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId 'com.affairs.japanesewords'
+        minSdk 26
+        targetSdk 34
+        versionCode 22
+        versionName '0.6.7'
+    }
+
+    // 固定签名：以后重新打包的新版本可以直接覆盖安装。
+    // 签名文件和密码不进仓库：放在 android/keystore/release.jks 和 android/keystore.properties（build-apk.bat 首次运行时生成）。
+    // 没有这两个文件时用调试签名打包，别人克隆下来也能直接编译。
+    def ksProps = new Properties()
+    def ksFile = rootProject.file('keystore.properties')
+    if (ksFile.exists()) ksFile.withInputStream { ksProps.load(it) }
+    signingConfigs {
+        release {
+            if (ksFile.exists()) {
+                storeFile rootProject.file(ksProps['storeFile'])
+                storePassword ksProps['storePassword']
+                keyAlias ksProps['keyAlias']
+                keyPassword ksProps['keyPassword']
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig ksFile.exists() ? signingConfigs.release : signingConfigs.debug
+        }
+    }
+
+    // 图片和音频本身已压缩，不再二次压缩（音频必须不压缩才能直接播放）
+    androidResources {
+        noCompress 'mp3', 'ogg', 'webp', 'jpg'
+    }
+
+    lint {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}

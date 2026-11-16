@@ -1,0 +1,5 @@
+FAIL n5_0186.mp3 がわ ClientConnectorDNSError(ConnectionKey(host='speech.platform.bing.com', port=443,
+FAIL n5_0186_s.mp3 道の右側を歩いてください。 ClientConnectorDNSError(ConnectionKey(host='speech.platform.bing.com', port=443,
+FAIL n5_0187.mp3 かわいい ClientConnectorDNSError(ConnectionKey(host='speech.platform.bing.com', port=443,
+FAIL n5_0185_s.mp3 道は川に平行している。 ClientConnectorDNSError(ConnectionKey(host='speech.platform.bing.com', port=443,
+synth ok=1432 fail=4

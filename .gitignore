@@ -1,0 +1,21 @@
+# 编译产物
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+dist/
+__pycache__/
+
+# 签名文件和密码（自己备份，不上传）
+android/keystore/
+android/keystore.properties
+*.jks
+*.keystore
+
+# 个人数据：用户库及其备份
+*.db
+*.db-journal
+data/backup/
+
+# 可重新下载的大数据（tools/download_tatoeba.py）
+data/raw/tatoeba/
