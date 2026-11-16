@@ -10,8 +10,8 @@ android {
         applicationId 'com.affairs.japanesewords'
         minSdk 26
         targetSdk 34
-        versionCode 22
-        versionName '0.6.7'
+        versionCode 23
+        versionName '0.6.8'
     }
 
     // 固定签名：以后重新打包的新版本可以直接覆盖安装。

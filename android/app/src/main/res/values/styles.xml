@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">日语斩</string>
+    <string name="app_name">绘词日语</string>
 
     <!-- 全局深色 -->
     <style name="AppTheme" parent="android:Theme.Material.NoActionBar">
