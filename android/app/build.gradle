@@ -10,8 +10,8 @@ android {
         applicationId 'com.affairs.japanesewords'
         minSdk 26
         targetSdk 34
-        versionCode 23
-        versionName '0.6.8'
+        versionCode 24
+        versionName '0.6.9'
     }
 
     // 固定签名：以后重新打包的新版本可以直接覆盖安装。
@@ -32,6 +32,11 @@ android {
     }
 
     buildTypes {
+        // 调试版用独立包名，和正式版并存、数据互不影响（截图演示用）
+        debug {
+            applicationIdSuffix '.demo'
+            resValue 'string', 'app_name', '绘词日语 演示'
+        }
         release {
             minifyEnabled false
             signingConfig ksFile.exists() ? signingConfigs.release : signingConfigs.debug

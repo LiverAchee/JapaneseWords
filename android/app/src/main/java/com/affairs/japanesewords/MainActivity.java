@@ -614,9 +614,7 @@ public class MainActivity extends Activity {
         c.addView(toggle("每道题自动朗读", "auto_read"));
         c.addView(toggle("选对 / 选错提示音", "fx_sound"));
         c.addView(toggle("允许外放（关闭时只在耳机里播放）", "speaker_on", "0"));
-        c.addView(toggle("手机静音 / 振动时外放也静音", "speaker_ringer", "0"));
-        c.addView(Ui.tv(this, "默认只在戴耳机时出声。打开“允许外放”后没戴耳机也会播放，默认不管手机是否静音；"
-                + "想让手机静音 / 振动时外放不出声，打开第二个开关。"
+        c.addView(Ui.tv(this, "连着耳机时只从耳机播放。没连耳机时，打开“允许外放”才会外放，不管手机是否静音。"
                 + "媒体音量为 0 时任何情况都不出声。", 12, 0xFF888780));
 
         c.addView(Ui.line(this));

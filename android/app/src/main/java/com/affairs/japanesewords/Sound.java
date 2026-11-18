@@ -14,9 +14,8 @@ import java.util.Arrays;
 
 /**
  * 所有声音都走“媒体”通道。
- * 静音规则：媒体音量为 0 → 不出声；戴耳机（有线 / 蓝牙 / USB）时只看媒体音量，从耳机播放；
- * 没戴耳机时默认不出声，设置里打开“允许外放”（speaker_on）后才外放。外放默认不管手机的静音 / 振动模式；
- * 另一个开关“手机静音时外放也静音”（speaker_ringer）打开后，手机静音 / 振动时外放不出声。
+ * 静音规则：媒体音量为 0 → 不出声；连着耳机（有线 / 蓝牙 / USB）时只从耳机播放（系统自动只走耳机），不管外放开关；
+ * 没连耳机时，设置里打开“允许外放”（speaker_on）才外放，不管手机的静音 / 振动模式。
  */
 public class Sound {
     private final Context ctx;
@@ -57,10 +56,8 @@ public class Sound {
     public boolean allowed() {
         if (am.getStreamVolume(AudioManager.STREAM_MUSIC) == 0) return false;
         if (headset()) return true;
-        // 默认只在耳机里播放；打开“允许外放”后外放，是否跟随手机静音 / 振动模式由 speaker_ringer 决定
-        if (!"1".equals(App.db.get("speaker_on", "0"))) return false;
-        if (!"1".equals(App.db.get("speaker_ringer", "0"))) return true;
-        return am.getRingerMode() == AudioManager.RINGER_MODE_NORMAL;
+        // 没连耳机：打开“允许外放”才出声（与手机静音 / 振动模式无关）
+        return "1".equals(App.db.get("speaker_on", "0"));
     }
 
     /** 选对 / 选错的短提示音。 */
